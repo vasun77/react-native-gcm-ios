@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <Google/CloudMessaging.h>
+#import <Firebase/Messaging.h>
 #import "RCTBridgeModule.h"
 
 @interface RNGcmIOS : NSObject <GGLInstanceIDDelegate, RCTBridgeModule>
